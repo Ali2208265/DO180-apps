@@ -1,0 +1,23 @@
+<pre>[student@workstation nodejs-app]$ echo &quot;Ali Abuhamda&quot; &amp;&amp; date
+Ali Abuhamda
+Mon Nov 29 16:22:18 MST 2021
+[student@workstation nodejs-app]$ 
+[student@workstation nodejs-app]$ lab troubleshoot-review grade
+
+Grading the student&apos;s work for the Lab: Troubleshooting Containerized Applications
+
+ · The nodejs-dev application response is correct..............  <font color="#00FF00"><b>PASS</b></font>
+
+
+[student@workstation nodejs-app]$ 
+[student@workstation nodejs-app]$ 
+[student@workstation nodejs-app]$ lab troubleshoot-review finish
+
+Completing the Lab: Troubleshooting Containerized Applications
+
+ · Log in on OpenShift.........................................  <font color="#34E2E2"><b>SUCCESS</b></font>
+ · Deleting the &apos;yffykr-nodejs-app&apos; OpenShift project..........  <font color="#34E2E2"><b>SUCCESS</b></font>
+[student@workstation nodejs-app]$ 
+[student@workstation nodejs-app]$ 
+[student@workstation nodejs-app]$ 
+</pre>
